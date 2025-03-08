@@ -1,0 +1,15 @@
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.exe
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.deps.json
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.runtimeconfig.json
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.dll
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\bin\Debug\net9.0\Lab13_Ex03.pdb
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.AssemblyInfoInputs.cache
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.AssemblyInfo.cs
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.csproj.CoreCompileInputs.cache
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.sourcelink.json
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.dll
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\refint\Lab13_Ex03.dll
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.pdb
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\Lab13_Ex03.genruntimeconfig.cache
+D:\Lab14-CSharp-Constructors\Lab13_Ex03\obj\Debug\net9.0\ref\Lab13_Ex03.dll
